@@ -6,7 +6,7 @@ using namespace std;
 int main(){
 
     cout << "Hellon \n";
-    cout << "I_L_O_V_E__Y_U_";
+    cout << "I_L_O_V_E__Y_O_U_";
     return 0;
 
 }
